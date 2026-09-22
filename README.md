@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
  ✮ 〟╔ 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 ╗ ⊹༅
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2500&pause=1000&color=F79FBF&width=435&separator=%3C&lines=Hi!+Welcome+to+my+profile%3CMy+name+is+Beatriz%2C+i'm+15+%3CI'm+studying+programming%3CHope+you+enjoy+my+progress+;)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2500&pause=1000&color=F79FBF&width=435&separator=%3C&lines=Hi!+Welcome+to+my+profile%3CMy+name+is+Beatriz%2C+i'm+17+%3CI'm+studying+programming%3CHope+you+enjoy+my+progress+;)" alt="Typing SVG" /></a>
 <br><br>
 ⇝ 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 𝙞'𝙢 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜:
 <br><br>
